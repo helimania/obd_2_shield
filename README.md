@@ -20,5 +20,4 @@ Features:
 - Support for the heavy-duty SAE J1939 OBD protocol
 - Superior automatic protocol detection algorithm
 
-
 ![preview 1](https://github.com/helimania/obd_2_shield/blob/master/obd.2.shield.3d.jpg)
