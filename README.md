@@ -3,6 +3,8 @@ Raspberry PI 3 Model A+ compatible shield for Zombie OBD-II Daemon
 
 Zombie OBD-II Daemon - software part of a Blackheart project
 
+(This shield can be used as a regular shieald for Raspberry PI or as a single board OBD-II scanner over UART connection) 
+
 ![preview 1](https://github.com/helimania/obd_2_shield/blob/master/obd.2.shield.3d.jpg)
 
 # Features
