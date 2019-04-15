@@ -4,11 +4,10 @@ Raspberry PI 3 Model A+ compatible shield for Zombie OBD-II Daemon
 Zombie OBD-II Daemon - software part of a Blackheart project
 
 Features:
-• Fully compatible with the ELM327 AT command set
-• Extended ST command set
-• UART interface (baud rates from 38 bps to 10 Mbps )
-
-• Support for all legislated OBD-II protocols:
+Fully compatible with the ELM327 AT command set
+Extended ST command set
+UART interface (baud rates from 38 bps to 10 Mbps )
+Support for all legislated OBD-II protocols:
 
 — ISO 15765-4 (CAN)
 
